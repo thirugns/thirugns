@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... IoT, Virtualization, MQTT,
 - 🌱 I’m currently learning ... Python, C, Java, 
 - 💞️ I’m looking to collaborate on ... anything
-- 📫 How to reach me ... sundar.t@livein
+- 📫 How to reach me ... sundar.t@live.in
 
 
 Testing the git commits.
